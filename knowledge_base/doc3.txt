@@ -1,0 +1,2 @@
+The main component of a Transformer model is the self-attention mechanism.
+BERT is a famous Transformer-based model.
